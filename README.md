@@ -15,14 +15,6 @@ The repository is organized into folders based on the problem categories from th
 
 Each folder contains Java files corresponding to the solutions for problems in that category.
 
-## Anime Coding Vibes 🌟
-Here are some anime-themed coding GIFs to keep you motivated:
-
-![Anime Coding 1](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-![Anime Coding 2](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-
-![Anime Coding 3](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
 ## How to Use
 1. Clone this repository:
@@ -55,4 +47,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Happy Coding!
